@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package messageapp;
+
+message Message {
+	string user = 1;
+	string content = 2;
+}
+
+message RequestMessage {
+	Message message = 1;
+}
+
+message ResponseMessage {
+	string result = 1;
+}
+
+service MessageService {
+	rpc Communicate (stream RequestMessage) returns (stream ResponseMessage) {}
+}

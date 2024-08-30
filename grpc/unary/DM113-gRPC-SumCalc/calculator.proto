@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+package GrpcCalc;
+
+message CalcMessage
+{
+	int32 argA = 1;
+	int32 argB = 2;
+}
+
+message Request
+{
+	CalcMessage calcRequest = 1;
+}
+
+message Response
+{
+	int32 result = 1;
+}
+
+service CalcService
+{
+	rpc Sum(Request) returns (Response) {}
+	rpc Sub(Request) returns (Response) {}
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjmat\\source\\repos\\MediaNotaSoapConsumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF75F4BE-CA12-461B-97BE-8DFF23CA78AC}|MediaNotaSoapConsumer\\MediaNotaSoapConsumer.csproj|c:\\users\\pjmat\\source\\repos\\medianotasoapconsumer\\medianotasoapconsumer\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF75F4BE-CA12-461B-97BE-8DFF23CA78AC}|MediaNotaSoapConsumer\\MediaNotaSoapConsumer.csproj|solutionrelative:medianotasoapconsumer\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF75F4BE-CA12-461B-97BE-8DFF23CA78AC}|MediaNotaSoapConsumer\\MediaNotaSoapConsumer.csproj|c:\\users\\pjmat\\source\\repos\\medianotasoapconsumer\\medianotasoapconsumer\\connected services\\mediaservice\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF75F4BE-CA12-461B-97BE-8DFF23CA78AC}|MediaNotaSoapConsumer\\MediaNotaSoapConsumer.csproj|solutionrelative:medianotasoapconsumer\\connected services\\mediaservice\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\source\\repos\\MediaNotaSoapConsumer\\MediaNotaSoapConsumer\\Connected Services\\MediaService\\Reference.cs",
+              "RelativeDocumentMoniker": "MediaNotaSoapConsumer\\Connected Services\\MediaService\\Reference.cs",
+              "ToolTip": "C:\\Users\\pjmat\\source\\repos\\MediaNotaSoapConsumer\\MediaNotaSoapConsumer\\Connected Services\\MediaService\\Reference.cs",
+              "RelativeToolTip": "MediaNotaSoapConsumer\\Connected Services\\MediaService\\Reference.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T01:25:51.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MediaController.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\source\\repos\\MediaNotaSoapConsumer\\MediaNotaSoapConsumer\\Controllers\\MediaController.cs",
+              "RelativeDocumentMoniker": "MediaNotaSoapConsumer\\Controllers\\MediaController.cs",
+              "ToolTip": "C:\\Users\\pjmat\\source\\repos\\MediaNotaSoapConsumer\\MediaNotaSoapConsumer\\Controllers\\MediaController.cs",
+              "RelativeToolTip": "MediaNotaSoapConsumer\\Controllers\\MediaController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAD4vxkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T01:22:21.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

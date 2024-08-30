@@ -1,0 +1,6 @@
+@NumbersToWordsSOAPConsumer_HostAddress = http://localhost:5145
+
+GET {{NumbersToWordsSOAPConsumer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

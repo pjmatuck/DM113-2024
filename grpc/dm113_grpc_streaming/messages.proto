@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package messages;
+
+message Message {
+	int32 id = 1;
+	string user = 2;
+	string content = 3;
+}
+
+message SingleRequest {
+	int32 value = 1;
+}
+
+message StreamResponse {
+	Message result = 1;
+}
+
+message SingleNumberMessage {
+	int32 value = 1;
+}
+
+service MessageServices {
+	rpc GetNameList(SingleRequest) returns (stream StreamResponse) {}
+	rpc GetMaxValue(stream SingleNumberMessage) returns (SingleNumberMessage) {}
+	rpc GetMaxValueRealTime(stream SingleNumberMessage) returns (stream SingleNumberMessage) {}
+}

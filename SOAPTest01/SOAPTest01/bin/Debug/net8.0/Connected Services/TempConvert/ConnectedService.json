@@ -1,0 +1,17 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://w3schools.com/xml/tempconvert.asmx?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Collections.Generic.Dictionary`2",
+      "System.Collections.Generic.List`1"
+    ],
+    "namespaceMappings": [
+      "*, TempConvert"
+    ],
+    "sync": true,
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}

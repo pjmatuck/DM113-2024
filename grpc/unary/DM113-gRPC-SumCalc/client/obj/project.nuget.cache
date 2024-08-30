@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPTliXOnwfX8nOEP+qz7Djp+oR2VJ5TCQ/854qHVcZuKlwC0p1UFhHJLKxENv13bwH4K3DYt6Zv88b4++Qj0/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\DM113-gRPC-SumCalc\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjmat\\.nuget\\packages\\google.protobuf\\3.27.3\\google.protobuf.3.27.3.nupkg.sha512",
+    "C:\\Users\\pjmat\\.nuget\\packages\\grpc.core.api\\2.65.0\\grpc.core.api.2.65.0.nupkg.sha512",
+    "C:\\Users\\pjmat\\.nuget\\packages\\grpc.net.client\\2.65.0\\grpc.net.client.2.65.0.nupkg.sha512",
+    "C:\\Users\\pjmat\\.nuget\\packages\\grpc.net.common\\2.65.0\\grpc.net.common.2.65.0.nupkg.sha512",
+    "C:\\Users\\pjmat\\.nuget\\packages\\grpc.tools\\2.65.0\\grpc.tools.2.65.0.nupkg.sha512",
+    "C:\\Users\\pjmat\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

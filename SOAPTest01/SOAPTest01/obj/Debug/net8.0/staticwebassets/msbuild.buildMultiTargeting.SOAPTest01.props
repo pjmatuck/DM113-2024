@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SOAPTest01.props" />
+</Project>

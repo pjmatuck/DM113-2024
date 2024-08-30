@@ -1,0 +1,14 @@
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\bin\Debug\net8.0\Aula1Test.exe
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\bin\Debug\net8.0\Aula1Test.deps.json
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\bin\Debug\net8.0\Aula1Test.runtimeconfig.json
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\bin\Debug\net8.0\Aula1Test.dll
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\bin\Debug\net8.0\Aula1Test.pdb
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\obj\Debug\net8.0\Aula1Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\obj\Debug\net8.0\Aula1Test.AssemblyInfoInputs.cache
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\obj\Debug\net8.0\Aula1Test.AssemblyInfo.cs
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\obj\Debug\net8.0\Aula1Test.csproj.CoreCompileInputs.cache
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\obj\Debug\net8.0\Aula1Test.dll
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\obj\Debug\net8.0\refint\Aula1Test.dll
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\obj\Debug\net8.0\Aula1Test.pdb
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\obj\Debug\net8.0\Aula1Test.genruntimeconfig.cache
+c:\Users\pjmat\Projects\Aula\DM113-2024\Aula1Test\obj\Debug\net8.0\ref\Aula1Test.dll

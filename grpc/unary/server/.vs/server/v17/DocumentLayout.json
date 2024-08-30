@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\services\\HelloService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services\\HelloService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\obj\\Release\\net8.0\\proto\\HelloGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Release\\net8.0\\proto\\HelloGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\obj\\Debug\\net8.0\\proto\\HelloGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\proto\\HelloGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloGrpc.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\obj\\Release\\net8.0\\proto\\HelloGrpc.cs",
+              "RelativeDocumentMoniker": "obj\\Release\\net8.0\\proto\\HelloGrpc.cs",
+              "ToolTip": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\obj\\Release\\net8.0\\proto\\HelloGrpc.cs",
+              "RelativeToolTip": "obj\\Release\\net8.0\\proto\\HelloGrpc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:39:54.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelloGrpc.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\obj\\Debug\\net8.0\\proto\\HelloGrpc.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\proto\\HelloGrpc.cs",
+              "ToolTip": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\obj\\Debug\\net8.0\\proto\\HelloGrpc.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\proto\\HelloGrpc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:39:48.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:39:08.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloService.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\services\\HelloService.cs",
+              "RelativeDocumentMoniker": "services\\HelloService.cs",
+              "ToolTip": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\unary\\server\\services\\HelloService.cs*",
+              "RelativeToolTip": "services\\HelloService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:38:23.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

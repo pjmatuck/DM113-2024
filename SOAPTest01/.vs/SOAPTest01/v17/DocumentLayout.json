@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjmat\\source\\repos\\SOAPTest01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8119BF9D-211B-40FE-8CC0-7E2E9F2ECC17}|SOAPTest01\\SOAPTest01.csproj|c:\\users\\pjmat\\source\\repos\\soaptest01\\soaptest01\\controllers\\convertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8119BF9D-211B-40FE-8CC0-7E2E9F2ECC17}|SOAPTest01\\SOAPTest01.csproj|solutionrelative:soaptest01\\controllers\\convertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8119BF9D-211B-40FE-8CC0-7E2E9F2ECC17}|SOAPTest01\\SOAPTest01.csproj|c:\\users\\pjmat\\source\\repos\\soaptest01\\soaptest01\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8119BF9D-211B-40FE-8CC0-7E2E9F2ECC17}|SOAPTest01\\SOAPTest01.csproj|solutionrelative:soaptest01\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8119BF9D-211B-40FE-8CC0-7E2E9F2ECC17}|SOAPTest01\\SOAPTest01.csproj|c:\\users\\pjmat\\source\\repos\\soaptest01\\soaptest01\\connected services\\tempconvert\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8119BF9D-211B-40FE-8CC0-7E2E9F2ECC17}|SOAPTest01\\SOAPTest01.csproj|solutionrelative:soaptest01\\connected services\\tempconvert\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConverterController.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\source\\repos\\SOAPTest01\\SOAPTest01\\Controllers\\ConverterController.cs",
+              "RelativeDocumentMoniker": "SOAPTest01\\Controllers\\ConverterController.cs",
+              "ToolTip": "C:\\Users\\pjmat\\source\\repos\\SOAPTest01\\SOAPTest01\\Controllers\\ConverterController.cs",
+              "RelativeToolTip": "SOAPTest01\\Controllers\\ConverterController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:49:34.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\source\\repos\\SOAPTest01\\SOAPTest01\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SOAPTest01\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\pjmat\\source\\repos\\SOAPTest01\\SOAPTest01\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SOAPTest01\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:48:15.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\source\\repos\\SOAPTest01\\SOAPTest01\\Connected Services\\TempConvert\\Reference.cs",
+              "RelativeDocumentMoniker": "SOAPTest01\\Connected Services\\TempConvert\\Reference.cs",
+              "ToolTip": "C:\\Users\\pjmat\\source\\repos\\SOAPTest01\\SOAPTest01\\Connected Services\\TempConvert\\Reference.cs",
+              "RelativeToolTip": "SOAPTest01\\Connected Services\\TempConvert\\Reference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:38:31.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

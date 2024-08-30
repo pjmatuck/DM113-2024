@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MediaNotaSoapConsumer.Controllers.MediaController",
+    "Method": "GetProva",
+    "RelativePath": "api/Media",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "disciplina",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

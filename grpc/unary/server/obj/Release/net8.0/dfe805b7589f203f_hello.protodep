@@ -1,0 +1,2 @@
+obj\Release\net8.0\proto/Hello.cs \
+obj\Release\net8.0\proto/HelloGrpc.cs: proto/hello.proto

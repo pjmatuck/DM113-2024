@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7nYVRYVuDQyuTvuRG8oh4zvIyfzblg5dWYtsIVBEc6s=",
+  "Source": "MediaNotaSoapConsumer",
+  "BasePath": "_content/MediaNotaSoapConsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

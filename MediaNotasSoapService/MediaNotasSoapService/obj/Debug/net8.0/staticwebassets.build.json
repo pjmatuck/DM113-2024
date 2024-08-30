@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n9vogg2cZiZNGisP6H4EcgeJzmDpd0cP0mvcr+yuMM4=",
+  "Source": "MediaNotasSoapService",
+  "BasePath": "_content/MediaNotasSoapService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

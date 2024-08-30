@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{085503A1-DB0D-4A28-8BEB-78BAA5442FE3}|client\\client.csproj|c:\\users\\pjmat\\projects\\aula\\dm113-2024\\grpc\\streaming\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{085503A1-DB0D-4A28-8BEB-78BAA5442FE3}|client\\client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8615C39-79A2-4C0B-A157-0FD6A28CFB14}|server\\server.csproj|c:\\users\\pjmat\\projects\\aula\\dm113-2024\\grpc\\streaming\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8615C39-79A2-4C0B-A157-0FD6A28CFB14}|server\\server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8615C39-79A2-4C0B-A157-0FD6A28CFB14}|server\\server.csproj|c:\\users\\pjmat\\projects\\aula\\dm113-2024\\grpc\\streaming\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8615C39-79A2-4C0B-A157-0FD6A28CFB14}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085503A1-DB0D-4A28-8BEB-78BAA5442FE3}|client\\client.csproj|c:\\users\\pjmat\\projects\\aula\\dm113-2024\\grpc\\streaming\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085503A1-DB0D-4A28-8BEB-78BAA5442FE3}|client\\client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8615C39-79A2-4C0B-A157-0FD6A28CFB14}|server\\server.csproj|c:\\users\\pjmat\\projects\\aula\\dm113-2024\\grpc\\streaming\\server\\service\\messageserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8615C39-79A2-4C0B-A157-0FD6A28CFB14}|server\\server.csproj|solutionrelative:server\\service\\messageserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AD339C-D5F7-4581-9F61-BCB921939482}|proto{05AD339C-D5F7-4581-9F61-BCB921939482}|C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\messages.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{05AD339C-D5F7-4581-9F61-BCB921939482}|proto{05AD339C-D5F7-4581-9F61-BCB921939482}|solutionrelative:messages.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA6wBAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:05:48.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\client\\Program.cs",
+              "RelativeDocumentMoniker": "client\\Program.cs",
+              "ToolTip": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\client\\Program.cs",
+              "RelativeToolTip": "client\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:51:29.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\server\\service\\MessageServiceImpl.cs",
+              "RelativeDocumentMoniker": "server\\service\\MessageServiceImpl.cs",
+              "ToolTip": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\server\\service\\MessageServiceImpl.cs",
+              "RelativeToolTip": "server\\service\\MessageServiceImpl.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAewBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:41:26.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "messages.proto",
+              "DocumentMoniker": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\messages.proto",
+              "RelativeDocumentMoniker": "messages.proto",
+              "ToolTip": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\messages.proto",
+              "RelativeToolTip": "messages.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-29T20:33:38.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.csproj",
+              "DocumentMoniker": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\server\\server.csproj",
+              "RelativeDocumentMoniker": "server\\server.csproj",
+              "ToolTip": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\server\\server.csproj",
+              "RelativeToolTip": "server\\server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T20:33:19.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.csproj",
+              "DocumentMoniker": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\client\\client.csproj",
+              "RelativeDocumentMoniker": "client\\client.csproj",
+              "ToolTip": "C:\\Users\\pjmat\\Projects\\Aula\\DM113-2024\\grpc\\streaming\\client\\client.csproj",
+              "RelativeToolTip": "client\\client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T20:32:36.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

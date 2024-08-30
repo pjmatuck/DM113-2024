@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NumbersToWordsSOAPConsumer.Controllers.ConversionController",
+    "Method": "NumberToWord",
+    "RelativePath": "Conversion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "number",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+package HelloPackage;
+
+message HelloMessage {
+    string name = 1;
+    string content = 2;
+}
+
+enum HelloStatus{
+    FAILED = 0;
+    SUCCESS = 1;
+}
+
+message Request {
+    HelloMessage request = 1;
+}
+
+message Response {
+    HelloStatus response = 1;   
+}
+
+service HelloService {
+    rpc SayHello(Request) returns (Response);
+}

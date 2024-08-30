@@ -1,0 +1,14 @@
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\bin\Debug\net8.0\ConsoleApp01.exe
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\bin\Debug\net8.0\ConsoleApp01.deps.json
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\bin\Debug\net8.0\ConsoleApp01.runtimeconfig.json
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\bin\Debug\net8.0\ConsoleApp01.dll
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\bin\Debug\net8.0\ConsoleApp01.pdb
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\obj\Debug\net8.0\ConsoleApp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\obj\Debug\net8.0\ConsoleApp01.AssemblyInfoInputs.cache
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\obj\Debug\net8.0\ConsoleApp01.AssemblyInfo.cs
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\obj\Debug\net8.0\ConsoleApp01.csproj.CoreCompileInputs.cache
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\obj\Debug\net8.0\ConsoleApp01.dll
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\obj\Debug\net8.0\refint\ConsoleApp01.dll
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\obj\Debug\net8.0\ConsoleApp01.pdb
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\obj\Debug\net8.0\ConsoleApp01.genruntimeconfig.cache
+C:\Users\pjmat\Projects\Aula\DM113-2024\ConsoleApp01\obj\Debug\net8.0\ref\ConsoleApp01.dll
